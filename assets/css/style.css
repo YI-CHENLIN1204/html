@@ -12578,6 +12578,7 @@ button.learn-more .circle .icon.arrow::before {
  position: absolute;
  content: "";
  top: -0.29rem;
+	
  right: 0.0625rem;
  width: 0.625rem;
  height: 0.625rem;
@@ -12590,7 +12591,7 @@ button.learn-more .button-text {
  transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
  position: absolute;
  top: 0;
- left: 0;
+ left: 50;
  right: 0;
  bottom: 0;
  padding: 0.75rem 0;
